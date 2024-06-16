@@ -1,0 +1,9 @@
+{
+  "id":"network_utils-velocity",
+  "name":"NetworkUtils",
+  "version":"${version}",
+  "description":"Utiltiies for managing a minecraft network ",
+  "authors":["ajh123"],
+  "main":"uk.minersonline.network_utils.velocity.NetworkUtils",
+  "url": "https://github.com/miners-online/network-utils"
+}

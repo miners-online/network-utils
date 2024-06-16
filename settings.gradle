@@ -1,0 +1,3 @@
+rootProject.name = 'network_utils'
+
+include ":velocity"
