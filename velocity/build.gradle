@@ -1,5 +1,11 @@
+repositories {
+    maven { url "https://maven.mrnavastar.rocks/snapshots" }
+}
+
+
 dependencies {
     implementation "com.velocitypowered:velocity-api:${project.velocity_version}"
+    implementation "group.aelysium:rustyconnector-toolkit:0.8.0"
 }
 
 // If ever strange behaviour check the docs for reference: https://imperceptiblethoughts.com/shadow/
