@@ -1,5 +1,5 @@
 repositories {
-    maven { url "https://maven.mrnavastar.rocks/snapshots" }
+    maven { url "https://maven.mrnavastar.rocks/releases" }
 }
 
 
